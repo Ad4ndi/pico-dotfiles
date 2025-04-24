@@ -1,4 +1,4 @@
-# nano-dotfiles
+# pico-dotfiles
 Dotfiles for i3wm/polybar
 
 ## Dependencies
